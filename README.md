@@ -157,6 +157,20 @@ Integrations are ways or methods of connecting external projects to Joystream. T
 
 Let's explore further in this field and see if we can come up with any solutions that can be implemented quickly.
 
+**Debts**
+
+```diff
++ Be sure to look at this section as it was recently updated
+```
+
+I think it is essential that the effort put in by the Builders Working Group should be rewarded. They have done an incredible job and  everyone is really appreciate that. Therefore, it is necessary to settle any debts accumulated during the Rhodes-Carthage and Carthage-Mainnet transition periods. Unfortunately we cannot afford to do all of it at once, as this may cause a collapse of the tokenomics. So we should aim to pay it off in the mid-term.
+
+Questions to consider:
+- Will we use story points or hourly rates to determine the compensation? 
+- What is the USD rate per hour? 50 USD?
+- Should we implement a vesting period?
+- What is the list of BWG employees with associated number of hours/SP they worked during the period?
+
 **Grants**
 
 Let's initiate a scheme in which grants are given to people or companies looking to develop dApps on Joystream. Each application should be accepted by the majority of the Council and the amount of the grant will be assessed on an individual basis.
