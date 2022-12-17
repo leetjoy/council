@@ -29,6 +29,19 @@ We are still finalizing [this step-by-step guide](https://docs.google.com/docume
 - Set budgets for the groups, and if required, the council budget size and replenishment rate
 - Establish workflows, tasks and reporting requirements with Leads and other CMs
 
+### Parameters for first term 
+
+```diff
++ Be sure to look at this section as it was recently updated
+```
+
+This is my suggestion for the composition, salary, and tasks of the Working Groups in the first term of the mainnet.
+
+- [Tasks for #1 Term](https://github.com/0x2bc/community-repo/blob/master/community-roadmap/tasks-for-1st-term.md)
+- [Composition of WGs and initial salaries](https://github.com/0x2bc/community-repo/blob/master/community-roadmap/Mainnet-Term-1.md)
+- [Lead Job Descriptions](https://github.com/0x2bc/community-repo/blob/master/community-roadmap/LeadsJD.md)
+
+
 ## Middle-Term
 
 Once things are settled down a bit, let's turn our attention to the backlog, re-establish processes and standards across the DAO, and enhance the infrastructure. These are the main directions I would focus on for the horizon of a few months. Though some items may appear unrelated, I still consider them important to include in the scope.
