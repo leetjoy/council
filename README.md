@@ -171,6 +171,8 @@ Questions to consider:
 - Should we implement a vesting period?
 - What is the list of BWG employees with associated number of hours/SP they worked during the period?
 
+[More info](https://discord.com/channels/811216481340751934/1052502272157949992/1053631876222431302)
+
 **Grants**
 
 Let's initiate a scheme in which grants are given to people or companies looking to develop dApps on Joystream. Each application should be accepted by the majority of the Council and the amount of the grant will be assessed on an individual basis.
