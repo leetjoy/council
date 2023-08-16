@@ -41,7 +41,7 @@ _including:_
 
 ### Channels
 
-- Total Channels, qty:				**1,592**
+- Total Channels (non-empty), qty:				**1,592**
 - Weekly Channels Growth, qty:		**365**
 - Weekly Channels Growth, %:		**29.75%**
 
