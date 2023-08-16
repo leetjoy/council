@@ -40,8 +40,9 @@ _including:_
 <img width="670" alt="Untitled (18)" src="https://i.imgur.com/h9I0Gx6.png">
 
 ### Channels
+Provided stats below are for non-empty channels only:
 
-- Total Channels (non-empty), qty:				**1,592**
+- Total Channels, qty:				**1,592**
 - Weekly Channels Growth, qty:		**365**
 - Weekly Channels Growth, %:		**29.75%**
 
