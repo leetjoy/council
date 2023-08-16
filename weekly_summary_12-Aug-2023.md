@@ -221,5 +221,5 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 ### Information For Newcomers
 
-- **How you can earn JOY as a creator:** [Join YPP **|](https://gleev.xyz/ypp)** [Sell your videos as NFTs](https://www.joystream.org/ru/#video-nfts) **|** [Set up your creator token](https://www.joystream.org/ru/#creator-tokens) ****
-- **How you can earn JOY as a DAO participant:** [Join a Working Group](https://pioneerapp.xyz/#/working-groups/openings) **|** [Validate and Stake](https://handbook.joystream.org/system/nomination) ****
+- **How you can earn JOY as a creator:** [Join YPP |](https://gleev.xyz/ypp) [Sell your videos as NFTs](https://www.joystream.org/ru/#video-nfts) | [Set up your creator token](https://www.joystream.org/ru/#creator-tokens) 
+- **How you can earn JOY as a DAO participant:** [Join a Working Group](https://pioneerapp.xyz/#/working-groups/openings)  |  [Validate and Stake](https://handbook.joystream.org/system/nomination) 
