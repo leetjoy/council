@@ -153,19 +153,19 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 # Recent Recruitments
 
-- @tomato hired as a Membership Lead
+- [@tomato](https://pioneerapp.xyz/#/members/2) hired as a Membership Lead
     
     > Tomato has been part of the project from its inception and is one of the most seasoned members of the DAO, a figure of trustworthiness. As a Membership Lead, Tomato will be responsible for the burning of JOY tokens.
     > 
-- @ferdikesh_studio (Omer) hired as a Deputy Content Lead
+- [@ferdikesh_studio](https://pioneerapp.xyz/#/members/3323) (Omer) hired as a Deputy Content Lead
     
     > Omer has 3 years of experience in web3 and is an FM at Joystream. Over time, he has worked in the Content WG in Testnet as a Worker, Deputy, and Lead. In addition, he has worked in the marketing department. Omer is known for his active participation, expressing his ideas, taking part in events, and playing an active role, which is of great value.
     > 
-- @klaudiusz hired as a Builder Worker. @klaudiusz was also hired as a Distribution Worker
+- [@klaudiusz](https://pioneerapp.xyz/#/members/2233) hired as a Builder Worker. @klaudiusz was also hired as a Distribution Worker
     
     > Klaudiusz is an active member of the project, who worked on the Jsgenesis team. Previously, he held the Apps Lead, Distribution Lead, and Distribution Worker positions.
     > 
-- @zhsojib2020 hired as an Outreach Specialist, MWG
+- [@zhsojib2020](https://pioneerapp.xyz/#/members/8218) hired as an Outreach Specialist, MWG
     
     > zhsojib2020 is an experienced professional Outreach Specialist who joined Joystream in August 2020. He has extensive experience as a Telegram Moderator and Community Manager, as well as the ability to act as an AMA host.
     > 
