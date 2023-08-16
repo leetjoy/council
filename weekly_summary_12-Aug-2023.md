@@ -4,76 +4,76 @@
 
 # Tokenomics
 
-- Total supply				**1,025,175,107 JOY**
-- JOY inflation (8 months)		**2.52%**
-- Circulating supply			**618,480,889 JOY**
-- Weekly Tokens Minted 		**26,108,403 JOY**
-- Weekly Tokens Burned 		**25,031,550 JOY**
+- Total supply:				**1,025,175,107 JOY**
+- JOY inflation (8 months):		**2.52%**
+- Circulating supply:			**618,480,889 JOY**
+- Weekly Tokens Minted: 		**26,108,403 JOY**
+- Weekly Tokens Burned:   **25,031,550 JOY**
 
 MEXC exchange wallet:
 
-- Balance					**76,123,497 JOY**
-- Weekly Balance change 		**+1,749,985 JOY**
+- Balance:					**76,123,497 JOY**
+- Weekly Balance change: 		**+1,749,985 JOY**
 
 DAO Spending: 
 
-- Start Issuance			**1,024,066,704** **JOY**
-- End Issuance			**1,025,175,107** **JOY**
-- Total minted (net)		**1,108,403** **JOY**
+- Start Issuance:			**1,024,066,704** **JOY**
+- End Issuance:			**1,025,175,107** **JOY**
+- Total minted (net):		**1,108,403** **JOY**
 
- 	including:
+_including:_
 
-- Council rewards		**116,667** **JOY**
-- WG spent			**780,248** **JOY**
-- Funding proposals		**0.00** **JOY**
-- Creator payout		**0.00** **JOY**
-- Validator rewards		**211,488** **JOY**
+- Council rewards:		**116,667** **JOY**
+- WG spent:			**780,248** **JOY**
+- Funding proposals:		**0.00** **JOY**
+- Creator payout:		**0.00** **JOY**
+- Validator rewards:		**211,488** **JOY**
 
 # **Content**
 
 ### Videos
 
-- Total Videos, qty				**70,458**
-- Weekly Videos Growth, qty  		**12,266**
-- Weekly Videos Growth, %		**21.1%**
+- Total Videos, qty:				**70,458**
+- Weekly Videos Growth, qty:  		**12,266**
+- Weekly Videos Growth, %:		**21.1%**
 
-![https://i.imgur.com/h9I0Gx6.png](https://i.imgur.com/h9I0Gx6.png)
+<img width="670" alt="Untitled (18)" src="https://i.imgur.com/h9I0Gx6.png">
 
 ### Channels
 
-- Total Channels, qty				**1,592**
-- Weekly Channels Growth, qty		**365**
-- Weekly Channels Growth, %		**29.75%**
+- Total Channels, qty:				**1,592**
+- Weekly Channels Growth, qty:		**365**
+- Weekly Channels Growth, %:		**29.75%**
 
-![https://i.imgur.com/xxur2mk.png](https://i.imgur.com/xxur2mk.png)
+<img width="670" alt="Untitled (18)" src="https://i.imgur.com/xxur2mk.png">
 
 ### Media Storage
 
-- Total Storage Used					**13,196.89 GB**
-- Weekly Storage Used Growth			**851.97 GB**
-- Weekly Storage Used Growth, %		**6.90%**
+- Total Storage Used:					**13,196.89 GB**
+- Weekly Storage Used Growth:			**851.97 GB**
+- Weekly Storage Used Growth, %:		**6.90%**
 
-![https://i.imgur.com/R4gPkwD.png](https://i.imgur.com/R4gPkwD.png)
+<img width="670" alt="Untitled (18)" src="https://i.imgur.com/R4gPkwD.png">
 
 ### Video NFTs
 
-- Total NFT				**2025**
-- Weekly NFT Growth 	**10**
-- Weekly NFT Growth, %	**4.90%**
-- Weekly NFT sold		**0**
+- Total NFT:				**2025**
+- Weekly NFT Growth: 	**10**
+- Weekly NFT Growth, %:	**4.90%**
+- Weekly NFT sold:		**0**
 
-![https://i.imgur.com/eHiqh0a.png](https://i.imgur.com/eHiqh0a.png)
+<img width="670" alt="Untitled (18)" src="https://i.imgur.com/eHiqh0a.png">
 
 # YouTube Partner Program
 
-- Total payouts 				**4,988,989 JOY**
-- Weekly payouts 			**843,743 JOY**
-- Weekly new synced videos     **1,335**
-- Weekly new SignUps 		**59**
+- Total payouts: 				**4,988,989 JOY**
+- Weekly payouts: 			**843,743 JOY**
+- Weekly new synced videos:     **1,335**
+- Weekly new SignUps: 		**59**
 
 More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-Payout-ending-11-08-9ffa6f22d6f843eab5fddd1fd3a2d519?pvs=21)
 
-**[➡️** Join YPP](https://gleev.xyz/ypp)
+[➡️ Join YPP](https://gleev.xyz/ypp)
 
 # **Product Releases**
 
@@ -99,11 +99,12 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 # **Membership**
 
-- Total Membership Accounts				**8,435**
-- Weekly Membership Accounts Growth 	 	**625**
-- Weekly Membership Accounts Growth, % 	**7.99%**
+- Total Membership Accounts:				**8,435**
+- Weekly Membership Accounts Growth: 	 	**625**
+- Weekly Membership Accounts Growth, %: 	**7.99%**
 
-![https://i.imgur.com/vCBcAyK.png](https://i.imgur.com/vCBcAyK.png)
+<img width="670" alt="Untitled (18)" src="https://i.imgur.com/vCBcAyK.png">
+
 
 # Forum
 
@@ -139,7 +140,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 # Open Bounties
 
-[**List of bounties](https://github.com/Joystream/community-repo/tree/master/bounties):**
+**[List of bounties](https://github.com/Joystream/community-repo/tree/master/bounties):**
 
 - **Non-Technical**
     - Translation of Lightpaper to Korean, German, Mandarin, Hindi, Urdu
@@ -172,13 +173,13 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 ### **[Election Round 17](https://pioneerapp.xyz/#/election)**
 
-- Election stage				**Voting Period**
-- Candidates number		**8**
+- Election stage:				**Voting Period**
+- Candidates number:		**8**
 - Candiate list: [vikan](https://pioneerapp.xyz/#/election?candidate=0000002s) | [Mayor Tee](https://pioneerapp.xyz/#/election?candidate=0000002t) | [chaos77](https://pioneerapp.xyz/#/election?candidate=0000002o)  | [svasilenko](https://pioneerapp.xyz/#/election?candidate=0000002p) | [Counsellor](https://pioneerapp.xyz/#/election?candidate=0000002q) | [jen4ph](https://pioneerapp.xyz/#/election?candidate=0000002u) |  [0x2bc](https://pioneerapp.xyz/#/election?candidate=0000002r) | [l1dev](https://pioneerapp.xyz/#/election?candidate=0000002v)
-- Votes (unrevealed), nmb		**148**
-- Votes (unrevealed), stake	**79,450,000 JOY**
-- Total candidate stake		**1,988,134 JOY** (in USD eq: 23,004 USD)
-- Council salary per term		**83,333 JOY** (in USD eq: 950 USD)
+- Votes (unrevealed), nmb:		**148**
+- Votes (unrevealed), stake:	**79,450,000 JOY**
+- Total candidate stake:		**1,988,134 JOY** (in USD eq: 23,004 USD)
+- Council salary per term:		**83,333 JOY** (in USD eq: 950 USD)
 
 # Proposals
 
