@@ -141,29 +141,23 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 # Recent Recruitments
 
-- [@**BezyOfficial**] ([https://pioneerapp.xyz/#/members/4287](https://pioneerapp.xyz/#/members/4287)) hired as a Outreach Specialist, ****MWG
+- [@**BezyOfficial**](https://pioneerapp.xyz/#/members/4287) hired as a Outreach Specialist, MWG
     
     > He is an experienced graphics designer, crypto trader, and forex trader who excels in building relationships with clients. He has previously worked as a freelancer for BanklessDAO as both a graphics and content writer.
     > 
-- [@**Polaris**]([https://pioneerapp.xyz/#/members/8241](https://pioneerapp.xyz/#/members/8241)) hired as an Outreach Specialist, MWG
-    - 
-    - [@**gyroflaw**]([https://pioneerapp.xyz/#/members/4141](https://pioneerapp.xyz/#/members/4141)) hired as a **Joystream Dev, BWG**
-        
-        > FM member
-        > 
+- [@**Polaris**](https://pioneerapp.xyz/#/members/8241) hired as an Outreach Specialist, MWG
     
     > Experienced lawyer at the crossroads of law and tech. Specializing in legal consults for innovative ventures. Former Joystream Testnet content curator.
     > 
-- [@**SASY**]([https://pioneerapp.xyz/#/members/4234](https://pioneerapp.xyz/#/members/4234)) hired as an Outreach Specialist, MWG
+- [@**SASY**](https://pioneerapp.xyz/#/members/4234) hired as an Outreach Specialist, MWG
     
     > He is a UI/UX designer, Forex trader and blogger who is passionate and enthusiastic about web3 and various other crypto projects.
     > 
-- [@**gyroflaw**]([https://pioneerapp.xyz/#/members/4141](https://pioneerapp.xyz/#/members/4141)) hired as a Joystream Dev, BWG
+- [@**gyroflaw**](https://pioneerapp.xyz/#/members/4141) hired as a Joystream Dev, BWG
     
     > FM member
     > 
-- [@**mkblockchaindev**]([https://pioneerapp.xyz/#/members/4278](https://pioneerapp.xyz/#/members/4278)) hired as a Joystream Dev, BWG
-    
+- [@**mkblockchaindev**](https://pioneerapp.xyz/#/members/4278) hired as a Joystream Dev, BWG
     
 
 # Council Election
