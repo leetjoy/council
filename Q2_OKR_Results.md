@@ -13,7 +13,7 @@
 | KR-3.4 |  JOY listed on 1 tier2 CEX. | 7/10 | There is no official rule telling us which exchange is tier 2 and which one is tier 3. It looks like MEXC deserve to be 2.5 tier exchange. |
 | KR-3.5 | On-chain memberships reach 7000. | 10/10 | We had 7159 memberships by 30 June 2023  |
 | KR-3.6  | Average 10% weekly growth in channels count that have more than 1 video uploaded. | 0/10 | At 1 Apr 2023 we had 403 non empty channels. At 30 June 2023 we had 905 non empty channels. 10% weekly growth for 1 quarter means the total growth by 3 times (=1.1^12), which wasn’t actually achieved |
-| KR-3.7  | 30% growth of http://joystream.org/ backlinks. | ? | Not actually sure how to collect this information but due to the massive marketing campaign we had during Q3 it’s much likely we achieved 30% growth   |
+| KR-3.7  | 30% growth of http://joystream.org/ backlinks. | ? | Not actually sure how to collect this information but due to the massive marketing campaign we had during Q2 it’s much likely we achieved 30% growth   |
 | KR-4.1  | Achieve an average video loading time of 1.2 seconds or less, as measured by tests conducted from major populated regions, by the end of Q2. | 0/10 | (1) The measurement tools were not introduced. (2) Based on my personal experience, and complaints of other community members, we didn’t achieve 1.2s target |
 | KR-4.2  | Each Council member and lead participate in no less than 50% of new weekly open mandatory kickoff meetings. | 0/10 | A few Leads and CMs were inactive during Q2 |
 | KR-4.3 |  Validators count not less than 45 by the end of Q2. | 0/10 | Validators count was set to 40 https://pioneerapp.xyz/#/proposals/preview/252  |
