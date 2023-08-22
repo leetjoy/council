@@ -2,7 +2,7 @@
 
 | Key Result # | Description | Score | Comment |
 | --- | --- | --- | --- |
-| KR-1.1 |  50% Increase in user engagement with Joystream ecosystem tools | 0/10 | (1) We didn’t implement tools to measure key results. (2) Some ecosystem tools were planned for development but never developed: (2.1) Blockchain Explorer (2.2) Validator payout bot (2.3) Hackathon   |
+| KR-1.1 |  50% Increase in user engagement with Joystream ecosystem tools | 0/10 | (1) We didn’t implement tools to automate the measurement and it's not clear what should be measured. (2) Some ecosystem tools were planned for development but never developed: (2.1) Blockchain Explorer (2.2) Validator payout bot (2.3) Hackathon   |
 | KR-1.2  | 50% Reduction on reported security and technical issues in discord | ? | Lets ask @Chaos. Comment: (1) It’s not clear upon which period the comparison should be made (2) The actual measurement didn’t take place |
 | KR-1.3  | Average response time on pioneer is reduced by 50% | 0/10 | Some tools were planned for development but never developed (1) Email notifications to track all activity on Pioneer. (2) Pioneer mobile version.  |
 | KR-1.4  | 60% reduction in reported bugs and errors in Pioneer | ? | Lets ask @Chaos. Comment: (1) It’s not clear upon which period the comparison should be made (2) The actual measurement didn’t take place |
