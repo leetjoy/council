@@ -22,7 +22,7 @@
 
 ### **Content**
 
-- Total Videos, qty: ****________ (ex: 79,098)
+- Total Videos, qty: ________ (ex: 79,098)
 - Total Channels, qty: ________ (ex: 1,904)
 - Total Non-Empty Channels, qty: ________ (ex: 1,904)
 - Total Storage Used: ________ (ex: 13,522.59 GB)
@@ -140,7 +140,7 @@ Data over period:
 
 - Total Videos (start block), qty: **_____** (ex: 79,098)
 - Total Videos (end block), qty: **_____**  (ex: 79,098)
-- Videos Growth, qty: **_____**  (ex: 7,098) ****
+- Videos Growth, qty: **_____**  (ex: 7,098) 
 - Videos Growth, %: **_____**  (ex: 12.2%)
 
 ### Channels
@@ -178,7 +178,7 @@ Provided stats below are for non-empty channels only:
 
 - Total Videos (start block), qty: **_____** (ex: 79,098)
 - Total Videos (end block), qty: **_____**  (ex: 79,098)
-- Videos Growth, qty: **_____**  (ex: 7,098) ****
+- Videos Growth, qty: **_____**  (ex: 7,098) 
 - Videos Growth, %: **_____**  (ex: 12.2%)
 
 ### Channels
