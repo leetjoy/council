@@ -212,7 +212,7 @@ Provided stats below are for non-empty channels only:
 - Membership Accounts Growth, qty: ______  (ex: 522)
 - Membership Accounts Growth, %: ______  (ex: 2.4%)
 
-# Proposals
+### Proposals
 
 **Passed**
 
