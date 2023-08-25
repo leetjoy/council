@@ -301,7 +301,7 @@ Provided stats below are for non-empty channels only:
 | Total | 1231 |
 
 
-# Option 4 (for "General stats" part of the Council Report)
+# Option 4 (Data For "General stats" part of the Council Report)
 
 
 ### `INPUT`
