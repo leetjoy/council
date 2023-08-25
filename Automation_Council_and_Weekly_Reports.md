@@ -232,7 +232,7 @@ Provided stats below are for non-empty channels only:
 - <…>
 - [Council Treasury Management - Burn](https://pioneerapp.xyz/#/proposals/preview/458)
 
-# Option 3 (For Weekly Roundup Charts)
+# Option 3 (Data For Weekly Roundup Charts)
 
 ### `INPUT`
 
