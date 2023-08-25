@@ -232,7 +232,7 @@ Provided stats below are for non-empty channels only:
 - <…>
 - [Council Treasury Management - Burn](https://pioneerapp.xyz/#/proposals/preview/458)
 
-# Option 3
+# Option 3 (For Weekly Roundup Charts)
 
 ### `INPUT`
 
@@ -299,3 +299,46 @@ Provided stats below are for non-empty channels only:
 | … | 2 |
 | 2023-08-06 | 29 |
 | Total | 1231 |
+
+
+# Option 4 (for "General stats" part of the Council Report)
+
+
+### `INPUT`
+
+- Start Block: ________ (ex: 3,153,614)
+- End Block: ________ (ex: 3,153,619)
+
+### `OUTPUT`
+
+- Total Channels (end block): ________
+- Channels (change during period): ________
+- Total Videos (end block): ________
+- Videos (change during period): ________
+- Total Storage Capacity Used, GB (end block): ________
+- Storage Capacity Used, GB (change during period): ________
+- Total Forum categories (end block): ________
+- Forum categories (change during period): ________
+- Total Forum threads (end block): ________
+- Forum threads (change during period): ________
+- Total Forum posts (end block): ________
+- Forum posts (change during period): ________
+- Total Proposals (end block): ________
+- Proposals (created during period):________
+- Proposals (passed during period):________
+- Proposals (rejected during period):________
+- Proposals (expired during period):________
+- Total Memberships (end block): ________
+- Memberships (change during period):________
+- Total Available WG budgets (end block):   ________
+- Total Available Council budget (end block): ________
+- Total WG Openings (end block): ________
+- WG Openings (change during period):________
+- Total WG Applications (end block): ________
+- WG Applications (change during period): ________
+
+Total Filled positions (change during period): 
+- Workers hired: ________
+- Workers fired: ________
+- Workers left: ________
+
