@@ -191,7 +191,7 @@ Payouts have been postponed.  Previous stats on YPP program is available [here](
     
     > This DAO member has been a key player in the project since its beginning. He has continued to be an involved member, regularly posting important topics on the pre-proposal threads and creating proposal, answering questions on the Discord channels.
     > 
-    - **[Apps WG Vision](https://pioneerapp.xyz/#/forum/thread/560)**
+    - [Apps WG Vision](https://pioneerapp.xyz/#/forum/thread/560)
     - Moderated a Discord server and troubleshot Discord settings
     - [Did a review of the past 1000 membership signups to try and see if there were any sybil attacks happening](https://pioneerapp.xyz/#/forum/thread/559)
     - [Participated in the discussion about a stablecoin treasury](https://pioneerapp.xyz/#/forum/thread/409?post=4567)
