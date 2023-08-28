@@ -189,7 +189,7 @@ Payouts have been postponed.  Previous stats on YPP program is available [here](
 
 - [@tomato](https://pioneerapp.xyz/#/members/2)
     
-    > This DAO member has been a key player in the project since its beginning. He has continued to be an involved member, regularly posting important topics on the pre-proposal threads and creating proposal, answering questions on the Discord channels.
+    > This DAO member has been a key player in the project since its inception. He has consistently remained an active member, regularly posting important topics in the pre-proposal threads, creating proposals, and answering questions on the Discord channels.
     > 
     - [Apps WG Vision](https://pioneerapp.xyz/#/forum/thread/560)
     - Moderated a Discord server and troubleshot Discord settings
@@ -199,7 +199,7 @@ Payouts have been postponed.  Previous stats on YPP program is available [here](
 
 - [@0x2bc](https://pioneerapp.xyz/#/members/2098)
     
-    > Funding member and was already elected to the Council 10 times since the Mainnet launch. He actively participates and possesses deep knowledge about the project.
+    > A founding member who has been elected to the Council 10 times since the Mainnet launch. He actively participates and possesses deep knowledge about the project.
     > 
     - [Participates in the preparation of the Weekly Roundup report in collaboration with the HR group](https://blog.joystream.org/)
     - [Automate Council And Weekly Reporting](https://pioneerapp.xyz/#/forum/thread/555)
@@ -208,7 +208,7 @@ Payouts have been postponed.  Previous stats on YPP program is available [here](
 
 - [@leet_joy](https://pioneerapp.xyz/#/members/957)
     
-    > Marketing Lead, the Funding Member, was chosen by the Council multiple times.
+    > Marketing Lead and founding member, was chosen to the Council multiple times.
     > 
     - [DAO Stablecoins Treasury V2](https://pioneerapp.xyz/#/forum/thread/409?post=4557)
 
