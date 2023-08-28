@@ -144,7 +144,7 @@ Payouts have been postponed.  Previous stats on YPP program is available [here](
 
 # Recent Recruitments
 
-- [@firuz89] ([https://pioneerapp.xyz/#/members/3625](https://pioneerapp.xyz/#/members/3625)) hired as a Content curator, CWG
+- [@firuz89]([https://pioneerapp.xyz/#/members/3625](https://pioneerapp.xyz/#/members/3625)) hired as a Content curator, CWG
     
     > He is a founding member with previous experience in the content working group on testnets. He is highly knowledgeable in English and Turkish (native), Web3, software and hardware, MS Office, and social media.
     > 
@@ -187,7 +187,7 @@ Payouts have been postponed.  Previous stats on YPP program is available [here](
 
 # Board of Honor
 
-- [@tomato] ([https://pioneerapp.xyz/#/members/2](https://pioneerapp.xyz/#/members/2))
+- [@tomato]([https://pioneerapp.xyz/#/members/2](https://pioneerapp.xyz/#/members/2))
     
     > This DAO member has been a key player in the project since its beginning. He has continued to be an involved member, regularly posting important topics on the pre-proposal threads and creating proposal, answering questions on the Discord channels.
     > 
@@ -197,7 +197,7 @@ Payouts have been postponed.  Previous stats on YPP program is available [here](
     - [Participated in the discussion about a stablecoin treasury](https://pioneerapp.xyz/#/forum/thread/409?post=4567)
     - [Increase Validator Count To 43](https://pioneerapp.xyz/#/proposals/preview/488)
 
-- [@0x2bc] ([https://pioneerapp.xyz/#/members/2098](https://pioneerapp.xyz/#/members/2098))
+- [@0x2bc]([https://pioneerapp.xyz/#/members/2098](https://pioneerapp.xyz/#/members/2098))
     
     > Funding member and was already elected to the Council 10 times since the Mainnet launch. He actively participates and possesses deep knowledge about the project.
     > 
@@ -205,6 +205,12 @@ Payouts have been postponed.  Previous stats on YPP program is available [here](
     - [Automate Council And Weekly Reporting](https://pioneerapp.xyz/#/forum/thread/555)
     - [OTC Deals](https://pioneerapp.xyz/#/forum/thread/561)
     - [BWG Planning: Process Improvement](https://pioneerapp.xyz/#/forum/thread/556)
+
+- [@leet_joy]([https://pioneerapp.xyz/#/members/957](https://pioneerapp.xyz/#/members/957))
+    
+    > Marketing Lead, the Funding Member, was chosen by the Council multiple times.
+    > 
+    - [DAO Stablecoins Treasury V2](https://pioneerapp.xyz/#/forum/thread/409?post=4557)
 
 # Useful Links
 
