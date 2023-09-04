@@ -6,9 +6,8 @@
 
 **26 August 2023 - 2 September 2023**
 
-Start Block:  `3,733,203`
-
-End Block:  `3,834,003`
+- Start Block:  `3,733,203`
+- End Block:  `3,834,003`
 
 # Tokenomics
 
