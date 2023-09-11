@@ -45,7 +45,7 @@ DAO Spending:
 - Weekly Videos Growth, qty: **15,106**
 - Weekly Videos Growth, %: **15.8%**
 
-![https://i.imgur.com/wIIcbG9.png](https://i.imgur.com/wIIcbG9.png)
+![https://i.imgur.com/XGTbkHG.png](https://i.imgur.com/XGTbkHG.png)
 
 ### Channels
 
@@ -61,16 +61,18 @@ Provided stats below are for non-empty channels only:
 - Weekly Storage Used Growth: **600 GB**
 - Weekly Storage Used Growth, %: **4.16%**
 
-![https://i.imgur.com/Y9j2FRu.png](https://i.imgur.com/Y9j2FRu.png)
+****
+
+![https://i.imgur.com/UgPwzYQ.png](https://i.imgur.com/UgPwzYQ.png)
 
 ### Video NFTs
 
-- Total NFT: **2,193**   
+- Total NFT: **2,193**
 - Weekly NFT Growth: **51**
 - Weekly NFT Growth, %: **2.4%**
 - Weekly NFT sold: **0**
 
-![https://i.imgur.com/HcmmAWB.png](https://i.imgur.com/HcmmAWB.png)
+![https://i.imgur.com/7Qb5blX.png](https://i.imgur.com/7Qb5blX.png)
 
 # **Membership**
 
@@ -78,7 +80,7 @@ Provided stats below are for non-empty channels only:
 - Weekly Membership Accounts Growth: **942**
 - Weekly Membership Accounts Growth, %: **9.2%**
 
-![https://i.imgur.com/Jy9wakq.png](https://i.imgur.com/Jy9wakq.png)
+![https://i.imgur.com/J5SPj12.png](https://i.imgur.com/J5SPj12.png)
 
 # YouTube Partner Program
 
@@ -232,10 +234,14 @@ Chaos initiated a discussion thread on this critical matter, which has garnered 
 
 **[@Vikan](https://pioneerapp.xyz/#/members/4058)**
 
-> Vikan, Founding member, been a part of Joystream since June 2023, has played an integral role in both the HR and Marketing working groups across the testnet and mainnet phases. Notably, his remarkable contributions within the Marketing working group have distinguished him as an exceptional outreach specialist. For outstanding outreach efforts in the Middle East region, Vikan successfully collaborated with over 15 creators to join the [YPP program](https://gleev.xyz/ypp), with many of them producing organic content about Gleev on their YouTube channels.
+> Vikan, Founding member, been a part of Joystream since June 2022, has played an integral role in both the HR and Marketing working groups across the testnet and mainnet phases. Notably, his remarkable contributions within the Marketing working group have distinguished him as an exceptional outreach specialist. For outstanding outreach efforts in the Middle East region, Vikan successfully collaborated with over 15 creators to join the [YPP program](https://gleev.xyz/ypp), with many of them producing organic content about Gleev on their YouTube channels.
 > 
 
-Notable Creator videos:  [One](https://gleev.xyz/channel/28661?tab=Videos),   [Two](https://gleev.xyz/channel/28208?tab=Videos),  [Three](https://gleev.xyz/channel/28786?tab=Videos)
+**Notable Content Creators**
+
+- [Ghosts](https://gleev.xyz/channel/28661?tab=Videos)
+- [Mo7TRaM](https://gleev.xyz/channel/28208?tab=Videos)
+- [Earn World](https://gleev.xyz/channel/28786?tab=Videos)
 
 # Useful Links
 
