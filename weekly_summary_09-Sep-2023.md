@@ -225,17 +225,19 @@ He initially joined the HR working group during the Testnet phase, gaining inval
 
 **[@Chaos77](https://pioneerapp.xyz/#/members/4406)**
 
-> Chaos, a founding member with an active presence in Joystream since September 2022, recently declared his candidacy and successfully secured a seat in the 18th Council term. Chaos has taken a proactive approach to fulfill the promises outlined in his [campaign manifesto](https://pioneerapp.xyz/#/election/past-elections/18?candidate=0000002w). In his capacity as a council member, Chaos is diligently conducting a DAO salary assessment while simultaneously leading the Builders Working Group. This initiative aims to ensure that workers receive fair compensation for their invaluable contributions to the DAO.
-
-Chaos initiated a discussion thread on this critical matter, which has garnered significant attention and elicited extensive feedback from the community.
-> 
+- Chaos, a founding member with an active presence in Joystream since September 2022, recently declared his candidacy and successfully secured a seat in the 18th Council term.
+- Chaos has taken a proactive approach to fulfill the promises outlined in his [campaign manifesto](https://pioneerapp.xyz/#/election/past-elections/18?candidate=0000002w).
+- In his capacity as a council member, Chaos is diligently conducting a DAO salary assessment while simultaneously leading the Builders Working Group. This initiative aims to ensure that workers receive fair compensation for their invaluable contributions to the DAO.
+- Chaos initiated a discussion thread on this critical matter, which has garnered significant attention and elicited extensive feedback from the community.
 
 **[DAO Workers Welfare](https://pioneerapp.xyz/#/forum/thread/586)**
 
-**[@Vikan](https://pioneerapp.xyz/#/members/4058)**
+**[@Vikan](https://pioneerapp.xyz/#/members/4058) Twitter [@jVikan1](https://twitter.com/jVikan1)**
 
-> Vikan, Founding member, been a part of Joystream since June 2022, has played an integral role in both the HR and Marketing working groups across the testnet and mainnet phases. Notably, his remarkable contributions within the Marketing working group have distinguished him as an exceptional outreach specialist. For outstanding outreach efforts in the Middle East region, Vikan successfully collaborated with over 15 creators to join the [YPP program](https://gleev.xyz/ypp), with many of them producing organic content about Gleev on their YouTube channels.
-> 
+- Vikan, Founding member, been a part of Joystream since June 2022, has played an integral role in both the HR and Marketing working groups across the testnet and mainnet phases.
+- Notably, his remarkable contributions within the Marketing working group have distinguished him as an exceptional outreach specialist.
+- For outstanding outreach efforts in the Middle East region, Vikan successfully collaborated with over 15 creators to join the [YPP program](https://gleev.xyz/ypp), with many of them producing organic content about Gleev on their YouTube channels.
+
 
 **Notable Content Creators**
 
