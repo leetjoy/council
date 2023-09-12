@@ -232,7 +232,7 @@ He initially joined the HR working group during the Testnet phase, gaining inval
 
 **[DAO Workers Welfare](https://pioneerapp.xyz/#/forum/thread/586)**
 
-**[@Vikan](https://pioneerapp.xyz/#/members/4058) Twitter [@jVikan1](https://twitter.com/jVikan1)**
+**[@Vikan](https://pioneerapp.xyz/#/members/4058) ([Twitter](https://twitter.com/jVikan1))**
 
 - Vikan, Founding member, been a part of Joystream since June 2022, has played an integral role in both the HR and Marketing working groups across the testnet and mainnet phases.
 - Notably, his remarkable contributions within the Marketing working group have distinguished him as an exceptional outreach specialist.
