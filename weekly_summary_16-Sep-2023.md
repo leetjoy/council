@@ -158,7 +158,7 @@ He first became part of the HR working group during testnet, where he acquired v
 **[Election Round 20](https://pioneerapp.xyz/#/election)**
 
 - Election stage: Announcing Period
-- Candidates number: 1
+- Candidates number: 2
 - Candidate list: [L1media](https://pioneerapp.xyz/#/election?candidate=00000037) | [Hanzo Hazashi](https://pioneerapp.xyz/#/election?candidate=0000003b)
 
 # Proposals
