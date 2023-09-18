@@ -185,21 +185,20 @@ He first became part of the HR working group during testnet, where he acquired v
 - [SWG Refill](https://pioneerapp.xyz/#/proposals/preview/531)
 - [45 Validators](https://pioneerapp.xyz/#/proposals/preview/530)
 
-# Rockstars of The Week
+# Rockstars of The Week (Twitter Version)
 
 [@Prontera](https://pioneer.joystreamstats.live/#/members/1737)  ([Twitter](https://x.com/Ivan98458679?s=20))
 
-- Prontera: An active member since September 2021.
-- Recently hired as a content curator at Gleev, quickly adapting to the new binding designs.
-- Proficiently remapping existing, checked and suspended channels into new TIERS, with categorization for suspended channels.
-- Prontera serves as both a Curator and a Verifier in the Content Working Group.
+- Prontera: Active member since September 2021.
+- New hire as Gleev content curator, adapting quickly to design changes.
+- Skillfully remapped existing channels into new TIERS with suspended channel categorization.
 
 [@Omer_OzdemirTR](https://pioneer.joystreamstats.live/#/members/3323) ([Twitter](https://x.com/Omer_OzdemirTR?s=20))
 
-- Currently serving as the Deputy Lead of the Content Working Group, making invaluable contributions to the Joystream project.
-- Conducts searches and manages contacts of creators enrolled in the YouTube Partner Program.
-- Exceptional curator known for resourcefulness and efficiency.
-- Omer_OzdemirTR: A founding member, exhibiting strong activity within the DAO during and after the testnet phase.
+- Founding member, active in DAO during and post-testnet phase.
+- Deputy Lead of Content Working Group, vital to Joystream.
+- Manages contacts of YouTube Partner Program creators.
+- Exceptional curator – resourceful and efficient.
 
 # Useful Links
 
