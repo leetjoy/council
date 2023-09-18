@@ -69,7 +69,7 @@ Provided stats below are for non-empty channels only:
 - Weekly NFT Growth, %: **1.8%**
 - Weekly NFT sold: **0**
 
-![Untitled](Weekly%20Roundup%20#6%200a1a401f4a4c4f12bc583704a6a4e1c9/Untitled.png)
+![https://i.imgur.com/lX0Q7VX.png](https://i.imgur.com/lX0Q7VX.png)
 
 # **Membership**
 
@@ -103,7 +103,6 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 - [Atlas & Gleev Updated with patch `v4.9.1`](https://github.com/Joystream/atlas/releases/tag/v4.9.1)
 - Pioneer `1.7.0`
     - Added
-    
     > Improve the multiple recipient funding request proposal preview
     Links to buy and earn $JOY.
     Link to `joystream.subscan.io`
@@ -157,7 +156,7 @@ He first became part of the HR working group during testnet, where he acquired v
 
 # Council Election
 
-***[Election Round 20](https://pioneerapp.xyz/#/election)***
+**[Election Round 20](https://pioneerapp.xyz/#/election)**
 
 - Election stage: Announcing Period
 - Candidates number: 1
@@ -195,7 +194,7 @@ He first became part of the HR working group during testnet, where he acquired v
 - Proficiently remapping existing, checked and suspended channels into new TIERS, with categorization for suspended channels.
 - Prontera serves as both a Curator and a Verifier in the Content Working Group.
 
-[@**Omer_OzdemirTR](https://pioneer.joystreamstats.live/#/members/3323) ([Twitter](https://x.com/Omer_OzdemirTR?s=20))**
+[@Omer_OzdemirTR](https://pioneer.joystreamstats.live/#/members/3323) ([Twitter](https://x.com/Omer_OzdemirTR?s=20))
 
 - Currently serving as the Deputy Lead of the Content Working Group, making invaluable contributions to the Joystream project.
 - Conducts searches and manages contacts of creators enrolled in the YouTube Partner Program.
