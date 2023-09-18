@@ -123,7 +123,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 # Forum
 
-**Hot topics**
+**Hot Topics**
 
 - [Councillor Rewards](https://pioneerapp.xyz/#/forum/thread/590)
 - [Runtime: Council min number of extra candidates](https://pioneerapp.xyz/#/forum/thread/596)
