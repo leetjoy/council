@@ -105,8 +105,9 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
     - Added
     > Improve the multiple recipient funding request proposal preview
     Links to buy and earn $JOY.
-    Link to `joystream.subscan.io`
-    > 
+
+    > Link to `joystream.subscan.io`
+    
 
 # Short-Term Roadmap
 
