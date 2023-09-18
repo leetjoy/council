@@ -115,8 +115,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 # Upcoming Events
 
 - DAO Daily Standup: Everyday from Monday - Friday at 10:30 CET
-- [19th Term Council Handover](https://discord.gg/joystream-811216481340751934?event=1150568568333815808) - 18th September, 2023 at 11 CET
-
+  
 # Recent Events
 
 - DAO Daily Standup ([recording](https://drive.google.com/drive/folders/1aEsrC6PBDGTHdnJkTiHb66S8fpB11Tp0?usp=drive_link))
@@ -160,7 +159,7 @@ He first became part of the HR working group during testnet, where he acquired v
 
 - Election stage: Announcing Period
 - Candidates number: 1
-- Candidate list: [L1media](https://pioneerapp.xyz/#/election?candidate=00000037)
+- Candidate list: [L1media](https://pioneerapp.xyz/#/election?candidate=00000037) | [Hanzo Hazashi](https://pioneerapp.xyz/#/election?candidate=0000003b)
 
 # Proposals
 
