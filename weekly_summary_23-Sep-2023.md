@@ -188,6 +188,14 @@ He is an accomplished Founding Member who has contributed significantly to the C
 
 - [SubScan's EMA7 (Supplementary To 532)](https://pioneerapp.xyz/#/proposals/preview/545)
 
+# Rockstar of The Week
+
+[Freakstatic](https://pioneerapp.xyz/#/members/306) ([Twitter](https://twitter.com/freakstatic_r?t=KxbIkHvwGarClQL2Qqyvgg&s=09))
+
+- FM, actively involved in Nara runtime upgrade.
+- Extending council terms and forum subcategory adjustments.
+- Increasing worker capacity for storage and distribution group.
+
 # Notable Content Creators
 
 [Braavos Wallet on StarkNet](https://gleev.xyz/channel/29370) ([Twitter](https://twitter.com/myBraavos))
