@@ -188,21 +188,6 @@ He is an accomplished Founding Member who has contributed significantly to the C
 
 - [SubScan's EMA7 (Supplementary To 532)](https://pioneerapp.xyz/#/proposals/preview/545)
 
-# Rockstars of The Week
-
-[@Prontera](https://pioneer.joystreamstats.live/#/members/1737)  ([Twitter](https://x.com/Ivan98458679?s=20))
-
-- Prontera: Active member since September 2021.
-- New hire as Gleev content curator, adapting quickly to design changes.
-- Skillfully remapped existing channels into new TIERS with suspended channel categorization.
-
-[@Omer_OzdemirTR](https://pioneer.joystreamstats.live/#/members/3323) ([Twitter](https://x.com/Omer_OzdemirTR?s=20))
-
-- Founding member, active in DAO during and post-testnet phase.
-- Deputy Lead of Content Working Group, vital to Joystream.
-- Manages contacts of YouTube Partner Program creators.
-- Exceptional curator – resourceful and efficient.
-
 # Notable Content Creators
 
 [Braavos Wallet on StarkNet](https://gleev.xyz/channel/29370) ([Twitter](https://twitter.com/myBraavos))
