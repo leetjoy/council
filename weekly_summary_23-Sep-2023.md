@@ -232,6 +232,6 @@ He is an accomplished Founding Member who has contributed significantly to the C
 - **How you can earn $JOY as a creator:** [Join YPP |](https://gleev.xyz/ypp) [Sell your videos as NFTs](https://www.joystream.org/ru/#video-nfts) | [Set up your creator token](https://www.joystream.org/ru/#creator-tokens)
 - **How you can earn $JOY as a DAO participant:** [Join a Working Group](https://pioneerapp.xyz/#/working-groups/openings) | [Validate and Stake](https://handbook.joystream.org/system/nomination) | [Opportunities](https://discord.com/channels/811216481340751934/1119240044830527529)
 
-### Disclaimer
+# Disclaimer
 
 The data provided may be incorrect or subject to inaccuracies. Users should verify the data independently before making any decisions or taking any actions based on it.
