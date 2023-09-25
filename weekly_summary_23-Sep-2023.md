@@ -190,7 +190,7 @@ He is an accomplished Founding Member who has contributed significantly to the C
 
 # Rockstar of The Week
 
-[Freakstatic](https://pioneerapp.xyz/#/members/306) ([Twitter](https://twitter.com/freakstatic_r?t=KxbIkHvwGarClQL2Qqyvgg&s=09))
+[Freakstatic](https://pioneerapp.xyz/#/members/306) ([Twitter](https://twitter.com/freakstatic_r))
 
 - FM, actively involved in Nara runtime upgrade.
 - Extending council terms and forum subcategory adjustments.
@@ -204,7 +204,7 @@ He is an accomplished Founding Member who has contributed significantly to the C
 - It provides the ability to manage funds, NFTs, and access dApps
 - Accessible on web browsers, Android, and iOS platforms.
 
-[Crypto Barry](https://gleev.xyz/channel/29373) ([Twitter](https://x.com/CryptoBarryYT?s=20))
+[Crypto Barry](https://gleev.xyz/channel/29373) ([Twitter](https://x.com/CryptoBarryYT))
 
 - Crypto Barry: Premier crypto-focused YouTube channel with 128k followers.
 - Platform to showcase and elevate crypto projects.
