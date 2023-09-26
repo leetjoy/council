@@ -78,7 +78,7 @@ Provided stats below are for non-empty channels only:
 - Weekly Membership Accounts Growth: **361**
 - Weekly Membership Accounts Growth, %: **3.0%**
 
-![https://i.imgur.com/yXe7jpy.png](https://i.imgur.com/yXe7jpy.png)
+![https://i.imgur.com/shbeuhl.png](https://i.imgur.com/shbeuhl.png)
 
 # YouTube Partner Program
 
@@ -234,4 +234,4 @@ He is an accomplished Founding Member who has contributed significantly to the C
 
 # Disclaimer
 
-The data provided may be incorrect or subject to inaccuracies. Users should verify the data independently before making any decisions or taking any actions based on it.
+All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors, service providers or agents have any liability whatsoever to any person for any direct or indirect loss, liability, cost, claim, expense or damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or part of this post, or any links to third party websites.
