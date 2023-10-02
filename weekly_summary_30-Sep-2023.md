@@ -15,7 +15,7 @@
 - JOY inflation (since mainnet launch): **3.09%**
 - Circulating supply:  **671,612,089 JOY**
 - Weekly Tokens Minted: **598,121 JOY**
-- Weekly Tokens Burned: **(XXX) JOY**
+- Weekly Tokens Burned: **(95,417.54) JOY**
 
 MEXC exchange wallet:
 
