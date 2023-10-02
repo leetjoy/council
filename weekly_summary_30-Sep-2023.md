@@ -53,7 +53,7 @@ Provided stats below are for non-empty channels only:
 
 - Total Channels, qty:  **1,317**
 - Weekly Channels Growth, qty: 6**9**
-- Weekly Channels Growth, 5**.5**%
+- Weekly Channels Growth, **5.5**%
 
 ### Media Storage
 
@@ -68,7 +68,7 @@ Provided stats below are for non-empty channels only:
 - Total NFT: **2,293**
 - Weekly NFT Growth: **23**
 - Weekly NFT Growth, %: **1.0%**
-- Weekly NFT sold: 3
+- Weekly NFT sold: **3**
 
 ![https://i.imgur.com/npBBTq3.png](https://i.imgur.com/npBBTq3.png)
 
@@ -122,15 +122,15 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 **Hot topics**
 
-- **[Runtime: General Proposal Parameters + Grace Periods](https://pioneerapp.xyz/#/forum/thread/615)**
+- [Runtime: General Proposal Parameters + Grace Periods](https://pioneerapp.xyz/#/forum/thread/615)
 
 **Other Topics**
 
 - [Bounty Process V1](https://pioneerapp.xyz/#/forum/thread/619)
-- **[What Does A Quality Validator Cost?](https://pioneerapp.xyz/#/forum/thread/611)**
-- **[Builders WG Compensation Plan V3](https://pioneerapp.xyz/#/forum/thread/614)**
+- [What Does A Quality Validator Cost?](https://pioneerapp.xyz/#/forum/thread/611)
+- [Builders WG Compensation Plan V3](https://pioneerapp.xyz/#/forum/thread/614)
 - [Update BWG Lead Salary](https://pioneerapp.xyz/#/forum/thread/617)
-- **[Runtime: General Proposal Parameters + Grace Periods](https://pioneerapp.xyz/#/forum/thread/615)**
+- [Runtime: General Proposal Parameters + Grace Periods](https://pioneerapp.xyz/#/forum/thread/615)
 - [New Lead Needed For The DWG](https://pioneerapp.xyz/#/forum/thread/618)
 
 # **Open Positions**
@@ -171,7 +171,7 @@ A Founding Member and carries the experience of being a former DWG lead with ove
 ### Not passed
 
 - [BWG Term 20 Budget](https://pioneerapp.xyz/#/proposals/preview/557)
-- **[SubScan's EMA7 (Supplementary To 532)](https://pioneerapp.xyz/#/proposals/preview/545)**
+- [SubScan's EMA7 (Supplementary To 532)](https://pioneerapp.xyz/#/proposals/preview/545)
 
 ### Deciding
 
