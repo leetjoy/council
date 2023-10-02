@@ -15,7 +15,7 @@
 - JOY inflation (since mainnet launch): **3.09%**
 - Circulating supply:  **671,612,089 JOY**
 - Weekly Tokens Minted: **598,121 JOY**
-- Weekly Tokens Burned: **(112,518) JOY**
+- Weekly Tokens Burned: **(94,628) JOY**
 
 MEXC exchange wallet:
 
@@ -34,8 +34,8 @@ DAO Spending:
 - WG spent: **307,872** **JOY**
 - Funding proposals: **0 JOY**
 - Creator payout: **19,000** **JOY**
-- Validator rewards: **267,101 JOY**
-- Fees and token burn: **(112,518) JOY**
+- Validator rewards: **249,210 JOY**
+- Fees and token burn: **(94,628) JOY**
 
 # **Content**
 
