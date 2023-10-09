@@ -4,9 +4,9 @@
 
 ## Period
 
-**30 September 2023 - 07 October 2023
+**30 September 2023 - 07 October 2023**
 
--** Start Block:     `4,237,208`
+- Start Block:     `4,237,208`
 - End Block:    `4,338,008`
 
 
@@ -79,7 +79,7 @@ Provided stats below are for non-empty channels only:
 - Weekly Membership Accounts Growth: **275**
 - Weekly Membership Accounts Growth, %: **2.2%**
     
-    ![https://i.imgur.com/Tgud93Q.png](https://i.imgur.com/Tgud93Q.png)
+![https://i.imgur.com/Tgud93Q.png](https://i.imgur.com/Tgud93Q.png)
     
 
 # YouTube Partner Program
@@ -141,7 +141,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 # Recent Recruitments
 
-> @***e9orov*** (Hired as Graphic Designer)
+> **@e9orov** (Hired as Graphic Designer)
 E9orov, a founding member, boasts extensive experience in graphic design. Prior to his recent hire, he served as a designer within the marketing working group and made significant contributions to the design of Joystream Founding Members' avatars.
 > 
 
