@@ -99,7 +99,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 # **Product Releases**
 
 - [Small patch was released for Atlas and Gleev: `v4.10.1`](https://github.com/Joystream/atlas/releases/tag/v4.10.1)
-- [Follow up patch was released for Atlas and Gleev: `v4.10.2](https://github.com/Joystream/atlas/releases/tag/v4.10.2)`
+- [Follow up patch was released for Atlas and Gleev: `v4.10.2`](https://github.com/Joystream/atlas/releases/tag/v4.10.2)
 
 > **Pioneer `1.8.0` was just released:**
 > 
