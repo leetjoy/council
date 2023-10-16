@@ -158,11 +158,11 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 > He designed AWS infrastructure and implemented CI/CD pipelines at Ventano Frehe Antikbeschläge in Berlin from 2018 to 2020. In his role at Metnu in Australia (remote) from 2020 to 2023, he focused on React infrastructure, database design, backend development, and conducted unit testing.
 > 
-- **Bythekingmaker:  hired as ‘Head of Content'**
+- **Bythekingmaker:  hired as Head of Content**
 
 > He has 11 years experience in marketing, including 2 years in crypto, he's a seasoned professional. Known for creating viral content, he was the first marketing hire at JSG, contributing to testnet onboarding, DAO recruitment, and organizing Twitter Spaces.
 > 
-- **Jen4ph was hired as 'Marketer’**
+- **Jen4ph was hired as Marketer**
 
 > She has a solid track record in both the Testnet and Mainnet phases. In the Testnet, she served as the HR Lead and council member on several occasions. Transitioning to the Mainnet, her dedication continued, taking on the role of HR Lead and serving as a council member a remarkable seven times. This extensive experience underscores her commitment and effectiveness in these key roles within the DAO.
 > 
