@@ -1,17 +1,17 @@
 # Council Plan #21 Update 
 
-- **[Term 21 Council Plan](https://pioneerapp.xyz/#/proposals/preview/590)**
-- [**OKR Q4 action items**](https://pioneerapp.xyz/#/forum/thread/631?post=5020)
+- [Term 21 Council Plan](https://pioneerapp.xyz/#/proposals/preview/590)
+- [OKR Q4 action items](https://pioneerapp.xyz/#/forum/thread/631?post=5020)
 
-### **Council tasks  [UPDATED**]
+### Council tasks  [UPDATED]
 
 Added
 
-- **CWG: approve compensation scheme**
-- **CWG: determine if it is necessary to curate all YPP videos**
-- **Reach out to Talisman to determine requirements for JOY staking integration**
-- **Explore ways to bring more high quality candidates for Council election**
-- **Consult with JSG about the possibility of including staking pools in the next Runtime upgrade.**
+- CWG: approve compensation scheme
+- CWG: determine if it is necessary to curate all YPP videos
+- Reach out to Talisman to determine requirements for JOY staking integration
+- Explore ways to bring more high quality candidates for Council election
+- Consult with JSG about the possibility of including staking pools in the next Runtime upgrade.
 
 Extra (if have time)
 
@@ -22,7 +22,7 @@ Unchanged
 - Refill stablecoin treasury by at least 350 USDT
 - Finalize DAO budgeting/salary system for remaining WGs and require all WG and council to include USD valuations into budgeting
 - Finalize AWG plans for the future
-- ~~OKR Q4 actions items [https://pioneerapp.xyz/#/forum/thread/631?post=5020](https://pioneerapp.xyz/#/forum/thread/631?post=5020)~~
+- OKR Q4 actions items [https://pioneerapp.xyz/#/forum/thread/631?post=5020](https://pioneerapp.xyz/#/forum/thread/631?post=5020)
 - Review proposals for Nara update
 - Incentivize early CM application
 
