@@ -58,7 +58,7 @@ Provided stats below are for non-empty channels only:
 ### Media Storage
 
 - Total Storage Used: **24,466 GB**
-- Weekly Storage Used Growth: **6621 GB**
+- Weekly Storage Used Growth: **6,621 GB**
 - Weekly Storage Used Growth, %: **37.1%**
 
 ![https://i.imgur.com/Y7grrtd.png](https://i.imgur.com/Y7grrtd.png)
