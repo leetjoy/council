@@ -149,7 +149,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 > Grigorii is an IT Specialist and Digital Entrepreneur with experience in various roles, including web development and founding a crypto project. He has expertise in blockchain technologies, gained from his time at NEAR Protocol. Currently, he actively serves as a Node Runner for a crypto project, managing node installations, server administration, and enhancing user experience through scripting and guides.
 > 
-- spoonbender was hired as  `DWG Operator (lower stake)`
+- spoonbender was hired as  `DWG Operator` (lower stake)
 
 > He is a former junior system administrator, he has shifted his focus to node maintenance and script development in Bash/Python, while also exploring Golang. Currently serving as a validator for Joystream and one of the main validators in the Cosmos Ecosystem, he boasts 3 years of experience as a node runner, handling nodes for diverse blockchains. His expertise extends to validating projects on various platforms including Solana, Evmos, Joystream, and Celestia.
 > 
