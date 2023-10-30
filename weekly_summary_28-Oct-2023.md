@@ -11,21 +11,10 @@
 
 # Tokenomics
 
-- Total supply: **1,034,099,424** **JOY**
-- JOY inflation (since mainnet launch): **3.34%**
-- Circulating supply:  **680,370,000 JOY**
-- Weekly Tokens Minted: **708,935 JOY**
-- Weekly Tokens Burned: **(228,285) JOY**
-
-MEXC exchange wallet:
-
-- Balance:  **88,352,469 JOY**
-- Weekly Balance change: (**1,657,891**) **JOY**
-
-DAO Spending:
-
 - Start Issuance: **1,033,390,489** **JOY**
 - End Issuance: **1,034,099,424** **JOY**
+- JOY inflation (since mainnet launch): **3.34%**
+- Circulating supply:  **680,370,000 JOY**
 - Total minted (net): **708,935** **JOY**
 
 *including:*
@@ -36,6 +25,11 @@ DAO Spending:
 - Creator payout: **3,900** **JOY**
 - Validator rewards: **259,355 JOY**
 - Fees and token burn: **(228,285) JOY**
+
+MEXC exchange wallet:
+
+- Balance:  **88,352,469 JOY**
+- Weekly Balance change: (**1,657,891**) **JOY**
 
 # **Content**
 
