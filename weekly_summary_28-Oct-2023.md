@@ -99,8 +99,8 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 # **Product Releases**
 
-- [Minor release of storage-node v3.7.1 on master branch, published to docker `joystream/storage-node:3.7.1` `joystream/storage-node:latest`](https://github.com/Joystream/joystream/blob/master/storage-node/CHANGELOG.md#371)
-- [upcoming release of distributor-node v1.4.0 including fix](https://github.com/Joystream/joystream/pull/4944)
+- Minor release of storage-node v3.7.1 on master branch, published to docker [`joystream/storage-node:3.7.1` `joystream/storage-node:latest`](https://github.com/Joystream/joystream/blob/master/storage-node/CHANGELOG.md#371)
+- [Upcoming release of distributor-node v1.4.0 including fix](https://github.com/Joystream/joystream/pull/4944)
 
 # Short-Term Roadmap
 
